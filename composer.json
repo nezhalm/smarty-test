@@ -1,0 +1,15 @@
+{
+    "name": "hpr/smarty-5.3.1",
+    "autoload": {
+        "psr-4": {
+            "Hpr\\Smarty531\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "nezhalm",
+            "email": "lemnissirnezha123@gmail.com"
+        }
+    ],
+    "require": {}
+}
